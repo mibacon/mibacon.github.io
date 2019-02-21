@@ -17,7 +17,7 @@ title: MiBacon homepage
 email: michal.bacon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Learn more about me and my work!
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "mibacon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  mibacon
