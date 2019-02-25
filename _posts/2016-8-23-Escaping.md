@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Escaping Social Dilemas
-description: How we learned to transcend the urge to serve base, self-interest and to develop the trust to choose to cooperate with our fellow humans.
-image: assets/images/Escape.png
+title: Escaping Social Dilemmas
+description: A visual simulation of different game theory strategies played out across diferent social dilemmas. 
+thumbnail: assets/images/Escape-thumb.png
 permalink: /Escaping_dilemas/
+link: https://mibacon.github.io/socialdilemmas/
 ---
 
-![test image]({{ site.url | absolute_path}}/assets/images/pic03.jpg)
+
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
 Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat.

@@ -1,9 +1,9 @@
 <section id="one" class="tiles">
   {% for post in site.posts limit:site.tiles-count %}
   {% if site.tiles-source == 'posts' %}
-  <article style="background-image:url({{ post.image }})">
+  <article style="background-image:url({{ post.thumbnail }})">
     <span class="image">
-      <img src="{{ post.image }}" alt="" />
+      <img src="{{ post.thumbnail }}" alt="" />
     </span>
     <header class="major">
       <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
