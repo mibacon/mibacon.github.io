@@ -1,0 +1,28 @@
+# site settings
+title: MiBacon
+subtitle: michal bacon
+email: michal.bacon@gmail.com
+description: 
+phone: 201-693-0370
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+
+linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
