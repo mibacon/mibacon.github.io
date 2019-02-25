@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Escaping Social Dilemas
-description: Lorem etiam nullam
+description: How we learned to transcend the urge to serve base, self-interest and to develop the trust to choose to cooperate with our fellow humans.
 image: assets/images/Escape.png
+permalink: /Escaping_dilemas/
 ---
 
 ![test image]({{ site.url | absolute_path}}/assets/images/pic03.jpg)

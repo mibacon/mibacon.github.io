@@ -3,6 +3,7 @@ layout: post
 title: Hilbert Infinite Hotel
 description: A poster demonstration on just how big can you stretch infinity.
 image: assets/images/Hilbert.jpg
+permalink: /Hilbert-Hotel/
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

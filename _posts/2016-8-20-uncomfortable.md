@@ -3,6 +3,7 @@ layout: post
 title: You're Making Me Uncomfortable
 description: A project to determine how my fellow New Yorkers react to prlonged, unasked for, eye-contact.
 image: assets/images/Uncomfortable2.png
+permalink: /uncomfortable/
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
