@@ -3,7 +3,7 @@ _site/
 .jekyll-metadata
 Gemfile.lock
 *.gem
-elements.md
-generic.md
-landing.md
-all_posts.md
+_elements.md
+_generic.md
+_landing.md
+_all_posts.md
