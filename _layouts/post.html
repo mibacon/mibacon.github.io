@@ -26,7 +26,7 @@
 		{% if page.image and page.link %} 
 			<a href="{{page.link }}"> <span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /> </a></span>
 		{% elsif page.image %} 
-			<!--{% lightbox images/{{ site.baseurl }}/{{ page.image }} --data="page_image_set" --title="Page Snapshot"--img-style="max-width:80%;" --class="image main" %}-->
+		
 			<!--<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /> </span>-->
 			<a href="{{ site.baseurl }}/{{ page.image }}" data-lightbox="1" title="{{ page.title }}">
 			<img src="{{ site.baseurl }}/{{ page.thumbnail }}" title="{{ page.title }}">
