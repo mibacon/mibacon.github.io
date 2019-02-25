@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Consequat
-description: Ipsum dolor sit amet
-image: assets/images/pic05.jpg
+title: Hilbert Infinite Hotel
+description: A poster demonstration on just how big can you stretch infinity.
+image: assets/images/Hilbert.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

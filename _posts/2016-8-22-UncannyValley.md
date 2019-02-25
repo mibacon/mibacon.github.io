@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Ipsum
-description: Nisl sed aliquam
-image: assets/images/pic04.jpg
+title: Chatter from the Uncanny Valley
+description: A collection of conversations with a very clever chatbot.
+image: assets/images/uncanny.png
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

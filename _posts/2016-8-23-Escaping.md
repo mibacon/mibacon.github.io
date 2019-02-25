@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Magna
+title: Escaping Social Dilemas
 description: Lorem etiam nullam
-image: assets/images/pic03.jpg
+image: assets/images/Escape.png
 ---
 
 ![test image]({{ site.url | absolute_path}}/assets/images/pic03.jpg)
