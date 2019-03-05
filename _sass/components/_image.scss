@@ -63,7 +63,18 @@
 				width: 100%;
 			}
 		}
+		
+		&.thumb {
+			// float: left;
+			display: block;
+			margin: 0 0 _size(element-margin) 0;
+			width: 25%;
 
+			img {
+				width: 100%;
+			}
+			
+		}
 		&.main {
 			display: block;
 			margin: (_size(element-margin) * 1.25) 0;
