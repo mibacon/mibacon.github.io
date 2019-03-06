@@ -35,7 +35,7 @@
 
 		&.left,
 		&.right {
-			
+			width: 25%;
 			img {
 				max-height: 100%;
 			
@@ -67,7 +67,7 @@
 		&.thumb {
 			// float: left;
 			display: block;
-			margin: 0 0 _size(element-margin) 0;
+			margin: 0 0 .5em 0;
 			width: 25%;
 
 			img {
